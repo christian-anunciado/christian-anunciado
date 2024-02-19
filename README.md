@@ -62,6 +62,6 @@ Feel free to contact me [below](#socials).
 
 
 <br/> ![](https://komarev.com/ghpvc/?username=SkrowRepap&style=for-the-badge)
-<br/> <a href="https://github.com/SkrowRepap" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/last-commit/SkrowRepap/TINA2.0?style=for-the-badge&color=0891b2&labelColor=1c1917&label=LAST%20COMMIT&logoColor=1c1917&logo=GitHub&logoColor=1c1917&" /></a> <a href="https://github.com/SkrowRepap" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/languages/top/SkrowRepap/TINA2.0?style=for-the-badge&labelColor=1c1917&color=0891b2" /></a>
+<br/> <a href="https://github.com/christian-anunciado" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/last-commit/christian-anunciado/portfolio-client?style=for-the-badge&color=0891b2&labelColor=1c1917&label=LAST%20COMMIT&logoColor=1c1917&logo=GitHub&logoColor=1c1917&" /></a> <a href="https://github.com/SkrowRepap" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/languages/top/christian-anunciado/TINA2.0?style=for-the-badge&labelColor=1c1917&color=0891b2" /></a>
