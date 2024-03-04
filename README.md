@@ -11,9 +11,9 @@ My solid foundation in programming and design principles allows me to create int
 
 
 * 🌍  I'm based in Cebu City, PH
-* 🏡  My [website](https://bit.ly/christian-anunciado)
+* 🏡  My [website](https://www.christiananunciado.org/)
 * 🚀  I'm currently building **exciting real-world applications**
-* 🖥️  My current working [project](https://tina-2-0.vercel.app/)
+* 🖥️  My current working [project](https://join.dexe.club/)
 * 🤝  I'm open to collaborating on interesting projects
 * 🧠  I'm learning everything related to JavaScript / Typescript
 * 😄 Pronouns: he/him
