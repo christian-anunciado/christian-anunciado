@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica+Neue&weight=500&duration=2000&pause=1500&vCenter=true&width=550&height=40&lines=Full+Stack+Developer.;Collaborator.;Learner.;Full+Stack+Developer.+Collaborator.+Learner.)](https://git.io/typing-svg)
 ----------------------------
 
-I am a JavaScript Developer, Collaborator and Learner who is passionate about learning JavaScript-related technologies. I am committed to writing clean, efficient and maintainable code, and enjoys working on projects that challenge me to expand my skill set and knowledge base. 
+I am a JavaScript Developer, Collaborator and Learner who loves learning JavaScript-related technologies. I am committed to writing clean, efficient and maintainable code, and enjoys working on projects that challenge me to expand my skill set and knowledge base. 
 
 My solid foundation in programming and design principles allows me to create intuitive applications that not only function flawlessly but also boast visually appealing interfaces. I take pride on my attention to detail and the ability to deliver projects on time without compromising quality. With my strong work ethic and dedication to meeting deadlines, makes me a reliable and valuable asset to any team.
 
